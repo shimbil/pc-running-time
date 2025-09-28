@@ -2,6 +2,8 @@
 
 **PC Running Time** is a lightweight Windows utility that tracks how long your PC has been running and detects idle time. It runs silently in the system tray and auto-starts with Windows. You’ll receive hourly friendly reminders to take breaks for a healthier workflow.
 
+![Screenshot](./screenshots/1.jpg)
+
 ---
 
 ## ✨ Features
